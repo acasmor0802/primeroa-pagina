@@ -113,15 +113,14 @@ Dependiendo de la placa base, puede haber 2, 4 o más ranuras para ampliar la ca
 
 ### Chipset
 El chipset es un conjunto de chips que gestiona la comunicación entre el procesador, la memoria, los periféricos y los dispositivos de almacenamiento.
-Existen dos tipos principales en una placa base:
+#### Existen dos tipos principales en una placa base:
 Northbridge: Gestiona la comunicación entre el procesador, la memoria RAM y la tarjeta gráfica.
 Southbridge: Gestiona las interfaces más lentas, como los puertos USB, SATA y audio.
 Hoy en día, muchas funciones del chipset han sido integradas directamente en la CPU.
 
 ### Ranuras de Expansión (PCI, PCIe)
 Son ranuras donde se conectan tarjetas de expansión, como tarjetas gráficas, de sonido, de red, etc.
-Los tipos más comunes son PCIe (PCI Express), con diferentes variantes (x1, x4, x8, x16) según la velocidad y el ancho de banda.
-PCIe x16 es usado principalmente para las tarjetas gráficas.
+Los tipos más comunes son PCIe , con diferentes variantes según la velocidad y el ancho de banda.
 
 ### BIOS/UEFI
 El BIOS (Sistema Básico de Entrada/Salida) o UEFI (Interfaz de Firmware Extensible Unificada) es un chip que almacena el firmware básico del sistema.
@@ -129,17 +128,17 @@ Permite iniciar la computadora y gestionar la configuración del hardware básic
 También almacena el código que permite la comunicación entre el sistema operativo y el hardware.
 
 ### Conectores de Almacenamiento (SATA, M.2, NVMe)
-SATA (Serial ATA): Conexiones para discos duros tradicionales (HDD) o unidades de estado sólido (SSD).
+SATA : Conexiones para discos duros tradicionales (HDD) o unidades de estado sólido (SSD).
 M.2: Puerto para unidades SSD más modernas y rápidas, con soporte para el protocolo NVMe, que ofrece una mayor velocidad de transferencia de datos.
 Algunas placas base pueden tener varios puertos M.2 para aumentar la capacidad de almacenamiento y la velocidad.
 
 ### Puertos de Entrada/Salida (I/O Panel)
 Se encuentran en la parte trasera de la placa base y permiten la conexión de dispositivos externos.
 Incluyen:
-Puertos USB (2.0, 3.0, 3.1, 3.2, USB-C).
+Puertos USB.
 Puerto Ethernet para la conexión de red.
 Puertos de audio (entrada y salida de audio, micrófono).
-Puertos de video (HDMI, DisplayPort, VGA) en placas base con gráficos integrados.
+Puertos de video en placas base con gráficos integrados.
 PS/2 para conectar teclados o ratones antiguos.
 
 ### Conectores de Alimentación
