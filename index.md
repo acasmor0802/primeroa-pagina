@@ -45,7 +45,8 @@ El factor de forma de las placas base define el tamaño, disposición de compone
 
 ### AT (Advanced Technology)
 Tamaño: Más de 100 cm.  
-Muy popular en los 80, pero era grande y complicado de manejar. Se usaba en las primeras computadoras personales, pero fue reemplazado debido a su dificultad para gestionar los cables y componentes.
+Muy popular en los 80, pero era grande y complicado de manejar. Se usaba en las primeras computadoras personales, pero fue reemplazado debido a su dificultad para gestionar los cables y componentes.  
+![image](https://github.com/user-attachments/assets/5f588ed7-8305-47d5-800e-8670825efbf4)
 
 ### ATX (Advanced Technology Extended)
 Tamaño: 305 mm x 244 mm.  
@@ -55,6 +56,7 @@ Buena organización de componentes.
 Ofrece múltiples ranuras de expansión PCIe, lo que permite conectar tarjetas gráficas, de sonido, etc.  
 Buena ventilación y manejo de cables.   
 Uso: PC de escritorio, desde básicos hasta de alto rendimiento.  
+![image](https://github.com/user-attachments/assets/ba931bdd-f038-4dc4-b82b-2531e093f687)
 
 ### microATX  
 Tamaño: 244 mm x 244 mm.  
@@ -63,6 +65,7 @@ Es una versión más pequeña de ATX, que apareció a finales de los 90.
 Menos ranuras de expansión (normalmente 4) pero sigue ofreciendo gran funcionalidad.  
 Perfecta para PCs compactos y de bajo costo.  
 Uso: Computadoras de escritorio más pequeñas o económicas.  
+![image](https://github.com/user-attachments/assets/5018b2be-5989-4e43-aee6-e51f7858d00d)
 
 ### Mini-ITX  
 Tamaño: 170 mm x 170 mm.  
@@ -72,6 +75,7 @@ Solo una ranura de expansión PCIe.
 Ideal para PCs compactos como sistemas multimedia, donde el espacio es limitado.  
 Ahorra energía y genera menos calor.  
 Uso: Centros de medios, sistemas de bajo consumo, servidores pequeños.  
+![image](https://github.com/user-attachments/assets/cc681d87-00dc-4761-8979-0d55650f0aa6)
 
 ### BTX (Balanced Technology Extended)  
 Tamaño: Similar al ATX.  
@@ -80,6 +84,7 @@ Desarrollado por Intel a principios de los 2000 con mejoras en el flujo de aire 
 Los componentes clave estaban mejor distribuidos para mejorar el enfriamiento.  
 A pesar de estas ventajas térmicas, no se popularizó y fue reemplazado por ATX y sus variantes.  
 Uso: Aunque prometía mejor gestión térmica, fue reemplazado rápidamente.  
+![image](https://github.com/user-attachments/assets/ba6e61cd-211f-40c2-87c8-85170fe90485)
 
 ### DTX  
 Tamaño: 203 mm x 244 mm.  
@@ -88,6 +93,7 @@ Introducido en 2007, era una alternativa compacta entre ATX y Mini-ITX.
 Compatible con gabinetes ATX y Mini-ITX.  
 Ofrece más opciones de expansión que Mini-ITX (2 ranuras PCIe).  
 Uso: PCs compactos que requieren más expansión, sin ser tan pequeños como Mini-ITX.  
+![image](https://github.com/user-attachments/assets/b3fb5ee0-ddab-4368-8df8-b2331dfd2e68)
 
 ### E-ATX (Extended ATX)  
 Tamaño: 305 mm x 330 mm.  
@@ -96,6 +102,7 @@ Una versión ampliada de ATX, usada para sistemas de alto rendimiento.
 Ofrece más ranuras PCIe, puertos para más RAM y almacenamiento.  
 Requiere gabinetes más grandes.  
 Uso: Estaciones de trabajo, servidores, PCs gaming de gama alta.  
+![image](https://github.com/user-attachments/assets/5a6e670b-e0f4-4221-aba8-c8a453ea2bb9)
 
 ## Componentes  
 Una placa base es el componente principal de una computadora, que conecta y permite la comunicación entre todos los demás dispositivos. Aquí están los componentes clave de una placa base:  
