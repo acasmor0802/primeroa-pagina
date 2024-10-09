@@ -111,11 +111,13 @@ Una placa base es el componente principal de una computadora, que conecta y perm
 Es el conector donde se instala el procesador o CPU (Unidad Central de Proceso).  
 Diferentes tipos de sockets están diseñados para soportar distintos modelos de procesadores (por ejemplo, LGA de Intel o AM4 de AMD).  
 Es uno de los componentes más importantes ya que define qué tipo de procesador se puede utilizar.  
+![image](https://github.com/user-attachments/assets/de3d6ace-2542-478e-9aef-ce40acd309b0)
 
 ### Ranuras de Memoria RAM  
 Estas ranuras permiten la instalación de módulos de memoria RAM (memoria de acceso aleatorio), esenciales para el funcionamiento de la computadora.  
 Las placas base modernas suelen soportar DDR4 o DDR5.  
 Dependiendo de la placa base, puede haber 2, 4 o más ranuras para ampliar la cantidad de RAM disponible.  
+![image](https://github.com/user-attachments/assets/9d3fc3bf-ef55-4a86-83a8-bbe910e7ff56)
 
 ### Chipset  
 El chipset es un conjunto de chips que gestiona la comunicación entre el procesador, la memoria, los periféricos y los dispositivos de almacenamiento.  
@@ -123,19 +125,24 @@ El chipset es un conjunto de chips que gestiona la comunicación entre el proces
 Northbridge: Gestiona la comunicación entre el procesador, la memoria RAM y la tarjeta gráfica.  
 Southbridge: Gestiona las interfaces más lentas, como los puertos USB, SATA y audio.  
 Hoy en día, muchas funciones del chipset han sido integradas directamente en la CPU.  
+![image](https://github.com/user-attachments/assets/8816e56c-d550-4b7f-b958-7919652ece22)
+
 ### Ranuras de Expansión (PCI, PCIe)  
 Son ranuras donde se conectan tarjetas de expansión, como tarjetas gráficas, de sonido, de red, etc.  
 Los tipos más comunes son PCIe , con diferentes variantes según la velocidad y el ancho de banda.  
+![image](https://github.com/user-attachments/assets/99f43c13-1699-495c-82e8-ed212ae1751a)
 
 ### BIOS/UEFI  
 El BIOS (Sistema Básico de Entrada/Salida) o UEFI (Interfaz de Firmware Extensible Unificada) es un chip que almacena el firmware básico del sistema.  
 Permite iniciar la computadora y gestionar la configuración del hardware básico, como el orden de arranque, voltajes, frecuencia de la CPU, entre otros.  
 También almacena el código que permite la comunicación entre el sistema operativo y el hardware.  
+![image](https://github.com/user-attachments/assets/eb416dae-5028-42f9-abfc-3370632a3bf4)
 
 ### Conectores de Almacenamiento (SATA, M.2, NVMe)  
 SATA : Conexiones para discos duros tradicionales (HDD) o unidades de estado sólido (SSD).  
 M.2: Puerto para unidades SSD más modernas y rápidas, con soporte para el protocolo NVMe, que ofrece una mayor velocidad de transferencia de datos.  
 Algunas placas base pueden tener varios puertos M.2 para aumentar la capacidad de almacenamiento y la velocidad.  
+![image](https://github.com/user-attachments/assets/e06a5c4b-ad5c-42d9-aff0-f15d722d2997)
 
 ### Puertos de Entrada/Salida (I/O Panel)  
 Se encuentran en la parte trasera de la placa base y permiten la conexión de dispositivos externos.  
@@ -145,30 +152,38 @@ Puerto Ethernet para la conexión de red.
 Puertos de audio (entrada y salida de audio, micrófono).  
 Puertos de video en placas base con gráficos integrados.  
 PS/2 para conectar teclados o ratones antiguos.  
+![image](https://github.com/user-attachments/assets/20a9e938-9360-4fa6-9da1-4743adcd8d42)
 
 ### Conectores de Alimentación  
 Conector ATX de 24 pines: Principal fuente de alimentación para la placa base.  
 Conector de 4/8 pines: Suministra energía adicional para el procesador.  
 Algunas placas más potentes pueden tener conectores adicionales para tarjetas gráficas o componentes de alto consumo.  
+![image](https://github.com/user-attachments/assets/f494e9dd-6e07-450c-9310-979e8c2d1dfc)
 
 ### Chip de Red (NIC)  
 La mayoría de las placas base incluyen un chip de red integrado para conexión a Internet mediante cable Ethernet.  
 En algunas placas más avanzadas, también se incluyen Wi-Fi y Bluetooth integrados.  
+![image](https://github.com/user-attachments/assets/32705e52-3924-4c26-bdd3-cc21dc1e91bd)
 
 ### Chip de Audio  
 Las placas base también integran un chip de audio que permite la salida de sonido sin necesidad de una tarjeta de sonido dedicada.  
 Proporciona conectores para altavoces, micrófonos, y a veces soporte para sonido envolvente 5.1 o 7.1.  
+![image](https://github.com/user-attachments/assets/ece49d9e-b0d2-47eb-9114-fc04a511ac51)
 
 ### Batería CMOS  
 Es una pequeña batería de litio que alimenta el chip CMOS, el cual guarda las configuraciones básicas del sistema (como la fecha, hora y configuraciones de hardware) cuando la computadora está apagada.  
+![image](https://github.com/user-attachments/assets/55579c1e-989f-4356-9421-8817a3d2cca8)
 
 ### Conectores para Ventiladores (Fan Headers)  
 Las placas base tienen conectores para ventiladores que ayudan a la refrigeración del sistema. Incluyen:  
 CPU fan: Conector específico para el ventilador del disipador de la CPU.  
 Chassis fan: Conectores para los ventiladores del gabinete.  
+![image](https://github.com/user-attachments/assets/fdcd3c86-764b-4335-93f6-b5a661da411e)
 
 ### Pines del Panel Frontal  
 Conectores para los botones y luces del gabinete (como el botón de encendido, reinicio, y los LEDs de actividad del disco duro).  
+![image](https://github.com/user-attachments/assets/150ea3ac-0cbb-4dba-ac66-dd527490866d)
 
 ### VRM (Módulo Regulador de Voltaje)  
 Es el sistema que regula la cantidad de voltaje que llega al procesador y otros componentes sensibles, garantizando que no reciban más energía de la necesaria.  
+![image](https://github.com/user-attachments/assets/7c721ea6-5e59-4ad2-9225-edf540dcf5d1)
